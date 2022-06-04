@@ -1,15 +1,15 @@
-### ¡Hola! Soy Antonio José 👋
+## *****¡Hola! Soy Antonio José***** 👋 ##
 
  Soy estudiante de Ingeniería Informática de Sevilla, me gusta el desarrollo web y móvil
  
-- **Proyectos**
-- [Red social con backend Json]([https://github.com/almgonlop](https://github.com/AntonioJoseDiaz/galeriafotos))
-- [Ajedrez en Haskell]([https://github.com/aliperbol](https://github.com/AntonioJoseDiaz/HaskellChess))
+ ## ***Proyectos*** ##
+- [Red social con backend Json](https://github.com/AntonioJoseDiaz/galeriafotos)
+- [Ajedrez en Haskell](https://github.com/AntonioJoseDiaz/HaskellChess)
 - [Análisis y visualización de datos con Svelte](https://github.com/AntonioJoseDiaz/SOS2021-10)
 
-- **Puedes encontrarme en:**: 
+## ***Puedes encontrarme en:*** ## 
 - [Linkedin](https://www.linkedin.com/in/antoniojosediazgonzalez/)
-- 
+
 <!--
 **AntonioJoseDiaz/AntonioJoseDiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
